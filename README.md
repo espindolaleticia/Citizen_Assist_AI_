@@ -69,4 +69,4 @@ As páginas abaixo foram consultadas em 08/11/2026. O endereço correspondente a
 A busca funciona com regras e palavras-chave, não com um modelo de IA generativa. Perguntas formuladas com termos diferentes dos cadastrados podem não ter resposta. O conteúdo depende da atualização manual do CSV e não substitui atendimento oficial. Perguntas com `@` ou oito ou mais dígitos são recusadas e não são registradas. A nota de facilidade é calculada na execução atual e não é armazenada entre execuções.
 
 ## Vídeo técnico
-Link: [inserir URL do vídeo não listado no YouTube]
+Link: https://youtu.be/LcZbU-2RHrU?is=AlR0uiNPO3hxzPwJ
